@@ -1,0 +1,5 @@
+print("Büşra")
+print("Soysal")
+print("23")
+print(False)
+print(1.60)

@@ -1,0 +1,6 @@
+print("adin nedir?")
+ad = input()
+print("memnun oldum", ad)
+print("yaşın kaç", ad)
+yas = int(input())
+print("yaşın", yas)
