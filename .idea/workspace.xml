@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="20fe0648-63e6-41bd-992f-d2a759e328e6" name="Changes" comment="" />
+    <list default="true" id="20fe0648-63e6-41bd-992f-d2a759e328e6" name="Changes" comment="deneme">
+      <change afterPath="$PROJECT_DIR$/Snake Game/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snake Game/.idea/Snake Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snake Game/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snake Game/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snake Game/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snake Game/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snake Game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snake Game/pythonproject_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snake Game/pythonprojelerim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yazılı Ortalaması Hesaplama/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yazılı Ortalaması Hesaplama/.idea/Yazılı Ortalaması Hesaplama.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yazılı Ortalaması Hesaplama/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yazılı Ortalaması Hesaplama/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yazılı Ortalaması Hesaplama/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yazılı Ortalaması Hesaplama/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snake Game/pythonprojelerim/sds.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,15 +31,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2sQtql4KDCCgjMlp84tuv0tSyeO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -59,7 +88,40 @@
       <option name="presentableId" value="Default" />
       <updated>1738399818718</updated>
     </task>
+    <task id="LOCAL-00001" summary="deneme">
+      <option name="closed" value="true" />
+      <created>1738399878897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738399878897</updated>
+    </task>
+    <task id="LOCAL-00002" summary="deneme">
+      <option name="closed" value="true" />
+      <created>1738400033419</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738400033419</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="deneme" />
+    <option name="LAST_COMMIT_MESSAGE" value="deneme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
